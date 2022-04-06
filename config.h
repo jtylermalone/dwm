@@ -7,7 +7,7 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "Fira Mono:style=Regular:size=15" };
 static const char dmenufont[]       = "Fira Mono:style=Regular:size=15";
-static const char col_gray1[]       = "#282a2e"; //dark grey
+static const char col_gray1[]       = "#2b3044"; //dark grey
 static const char col_gray2[]       = "#a54242"; // green (not used)
 static const char col_gray3[]       = "#c5c8c6"; // white
 static const char col_gray4[]       = "#c5c8c6"; // light grey
